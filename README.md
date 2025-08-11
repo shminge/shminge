@@ -1,5 +1,5 @@
-## Hi, I'm Elliott
+## Hi, I'm Elliott!
 
-- 🔭 I’m currently working on several projects: A few games in Godot, a board game solver, and some other things
-- 🌱 I’m currently studying maths and computer science at the Australian National University
-- 💬 Ask me about fungi!
+- Working on my blog at `shminge.dev`, and various other mathematical or game development projects.
+- I love TypeScript, Python, Rust, and Godot
+- I like making little tools that improve my life.
